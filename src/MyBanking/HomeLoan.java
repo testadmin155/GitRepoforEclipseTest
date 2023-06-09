@@ -9,6 +9,7 @@ public class HomeLoan {
 		System.out.println("This is a Previllege HomeLoan");
 		System.out.println("This is a BuyBack HomeLoan");
 		System.out.println("This is a Flexi HomeLoan");
+		System.out.println("This is a Mortgage HomeLoan");
 	}
 
 }
